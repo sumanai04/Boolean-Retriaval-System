@@ -1,1 +1,1 @@
-# Boolean-Retriaval-System
+# Boolean-Retrieval-System
